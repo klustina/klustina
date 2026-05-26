@@ -22,5 +22,5 @@
 
 ## Контакты
 
-@sweetiewwx
+@sweetiewwx ·
 katylustina@mail.ru
