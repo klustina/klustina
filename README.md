@@ -10,7 +10,7 @@
 
 **Программирование:** Python (pandas, NumPy, scikit-learn) · HTML · CSS
 
-**Инструменты:** Excel · Linux
+**Инструменты:** Excel · Linux · UX/UI
 
 ## Проекты Power BI
 
