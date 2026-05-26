@@ -22,5 +22,5 @@
 
 ## Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-написать-blue)](https://t.me/sweetiewwx)
-[![Email](https://img.shields.io/badge/Email-написать-gray)](mailto:katylustina@mail.ru)
+@sweetiewwx
+katylustina@mail.ru
