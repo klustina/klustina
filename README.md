@@ -1,6 +1,6 @@
 ## Data Analyst / BI-аналитик
 
-Работаю с большими объёмами данных в крупной IT-корпорации: верификация, структурирование, подготовка отчётов. Владею SQL, Python и BI-инструментами.
+Имею опыт работы с большими объёмами данных в крупной IT-корпорации: верификация, структурирование, подготовка отчётов. Владею SQL, Python и BI-инструментами.
 
 ## Стек
 
@@ -22,4 +22,5 @@
 
 ## Контакты
 
-[![HH](https://hh.ru/resume/a2937f8aff0f7d57880039ed1f34656a555962)](ССЫЛКА_НА_HH)
+[![Telegram](https://img.shields.io/badge/Telegram-написать-blue)](https://t.me/sweetiewwx)
+[![Email](https://img.shields.io/badge/Email-написать-gray)](mailto:katylustina@mail.ru)
