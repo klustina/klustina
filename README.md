@@ -1,26 +1,24 @@
-## Data Analyst / BI-аналитик
+# Data Analyst / BI-аналитик
 
 Имею опыт работы с большими объёмами данных в крупной IT-корпорации: верификация, структурирование, подготовка отчётов. Владею SQL, Python и BI-инструментами.
 
 ## Стек
 
 **Базы данных:** SQL · MySQL · SQLite · MS SQL Server · MS Access
-
 **Визуализация:** Power BI · Tableau · DataLens
-
 **Программирование:** Python (pandas, NumPy, scikit-learn) · HTML · CSS
-
 **Инструменты:** Excel · Linux · UX/UI
 
-## Проекты Power BI
+## Портфолио
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [Логистический дашборд](https://github.com/klustina/logistics-dashboard-powerbi) | Анализ перевозчиков, статусы доставки, задержки | Power BI · DAX |
-| [Аналитика поставщиков](https://github.com/klustina/supplier-analytics-powerbi) | Эффективность поставщиков, KPI, связанные таблицы | Power BI · DAX |
-| [Операционный BI-отчёт](https://github.com/klustina/operational-report-powerbi) | Выручка, прибыль по регионам, динамика по месяцам | Power BI · DAX · Power Query |
+Все проекты собраны в одном репозитории: **[portfolio](https://github.com/klustina/portfolio)**
+
+| Раздел | Проекты |
+|---|---|
+| 📊 Power BI | Логистический дашборд, аналитика поставщиков, операционный BI-отчёт, анализ рынка труда |
+| 🗄️ SQL | Возрастные группы и зарплаты, сегментация клиентов |
+| 🧪 A/B-тесты | Расчёт uplift и ROMI для рассылки |
 
 ## Контакты
 
-@sweetiewwx ·
-katylustina@mail.ru
+@sweetiewwx · katylustina@mail.ru
