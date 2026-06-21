@@ -4,10 +4,10 @@
 
 ## Стек
 
-**Базы данных:** SQL · MySQL · SQLite · MS SQL Server · MS Access
-**Визуализация:** Power BI · Tableau · DataLens
-**Программирование:** Python (pandas, NumPy, scikit-learn) · HTML · CSS
-**Инструменты:** Excel · Linux · UX/UI
+- **Базы данных:** SQL · MySQL · SQLite · MS SQL Server · MS Access
+- **Визуализация:** Power BI · Tableau · DataLens
+- **Программирование:** Python (pandas, NumPy, scikit-learn) · HTML · CSS
+- **Инструменты:** Excel · Linux · UX/UI
 
 ## Портфолио
 
