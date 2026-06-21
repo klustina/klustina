@@ -11,14 +11,13 @@
 
 ## Портфолио
 
-Все проекты собраны в одном репозитории: **[portfolio](https://github.com/klustina/portfolio)**
+Все проекты собраны в одном репозитории: [portfolio](https://github.com/klustina/portfolio)
 
 | Раздел | Проекты |
 |---|---|
-| Power BI | Логистический дашборд, аналитика поставщиков, операционный BI-отчёт, анализ рынка труда |
-| SQL | Возрастные группы и зарплаты, сегментация клиентов |
-| A/B-тесты | Расчёт uplift и ROMI для рассылки |
-
+| [Power BI](https://github.com/klustina/portfolio/tree/main/powerbi) | Логистический дашборд, аналитика поставщиков, операционный BI-отчёт, анализ рынка труда |
+| [SQL](https://github.com/klustina/portfolio/tree/main/sql) | Возрастные группы и зарплаты, сегментация клиентов |
+| [A/B-тесты](https://github.com/klustina/portfolio/tree/main/ab-tests) | Расчёт uplift и ROMI для рассылки |
 ## Контакты
 
 @sweetiewwx · katylustina@mail.ru
